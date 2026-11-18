@@ -1,2 +1,2 @@
 # Brenttest
-Test repository for a project
+This branch has the code for the fisrt method of initial sensor (configuration )etc etc
