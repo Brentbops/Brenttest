@@ -1,3 +1,4 @@
 <Solution>
+  <Project Path="../TempMonitoring.Tests/TempMonitoring.Tests.csproj" />
   <Project Path="TempMonitoring.csproj" />
 </Solution>
