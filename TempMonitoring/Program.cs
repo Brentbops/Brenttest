@@ -1,0 +1,10 @@
+﻿namespace TempMonitoring
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Console.WriteLine("Hiya, World!");
+        }
+    }
+}
